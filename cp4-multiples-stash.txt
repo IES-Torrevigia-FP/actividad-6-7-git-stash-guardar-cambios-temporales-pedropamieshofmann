@@ -1,0 +1,6 @@
+Salida de git stash list:
+stash@{0}: WIP login paso 4
+stash@{1}: WIP login paso 3
+
+Comando usado:
+git stash apply stash@{1}
