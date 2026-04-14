@@ -1,0 +1,5 @@
+Salida de git stash list:
+stash@{0}: On main: WIP login pasos 1 y 2
+
+Salida de git log --oneline --all:
+(pon aquí el resultado real)

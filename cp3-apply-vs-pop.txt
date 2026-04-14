@@ -1,0 +1,8 @@
+Antes de apply:
+stash@{0}: WIP login pasos 1 y 2
+
+Después de apply:
+El stash sigue existiendo
+
+Después de pop:
+El stash desaparece

@@ -1,0 +1,2 @@
+Salida de git status:
+(modified: tarea.txt)
